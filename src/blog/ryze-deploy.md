@@ -8,7 +8,7 @@ tags: ["fintech", "smart-cities", "florida-tech", "mobile-app-development"]
 featured: true
 editable: false
 ---
-
+  
 # Building FinTech and Smart Infrastructure Apps in Florida's Gold Coast
 
 I reckon if you spent any time in Miami or West Palm Beach lately, you've noticed the "Silicon Beach" label isn't just some glossy brochure talk anymore. It is 2026, and the Gold Coast has finally stopped trying to be San Francisco and started being itself. Which basically means we have better weather, worse traffic, and a tech scene that actually builds stuff people use.
