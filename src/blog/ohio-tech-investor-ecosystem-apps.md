@@ -6,7 +6,7 @@ date: 2026-02-05
 author: "Eira Wexford"
 tags: ["ohio tech", "mobile apps", "venture capital", "startups"]
 featured: true
-editable: true
+editable: false
 ---
 # Connecting Ohio's Tech Investor Ecosystem via Mobile Apps
 
