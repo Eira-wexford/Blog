@@ -32,5 +32,5 @@ export default defineConfig({
   },
 
   output: "static",
-  site: "https://applauncherhub.netlify.app/",
+  site: "https://applauncherhubs.netlify.app/",
 });
