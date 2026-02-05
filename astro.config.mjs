@@ -32,5 +32,5 @@ export default defineConfig({
   },
 
   output: "static",
-  site: "https://appinventiv.com",
+  site: "https://applauncherhub.netlify.app/",
 });
