@@ -6,7 +6,7 @@ date: 2026-02-05
 author: "Eira Wexford"
 tags: ["voice ai", "mobile development", "startups", "california", "artificial intelligence"]
 featured: true
-editable: true
+editable: false
 ---
 
 <br>
